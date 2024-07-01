@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![IMG_4409](https://github.com/Wetwork-App/Issue-Tracker/assets/62760393/5b137ef2-4f9a-4812-be33-08dc385fe865)
+<img width="1505" alt="Screenshot 2024-06-30 at 03 07 12" src="https://github.com/Wetwork-App/Issue-Tracker/assets/62760393/d264d04f-51e2-4c2a-85cc-b729d87d3db3">
 
 ## Have a problem?
 
